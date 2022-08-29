@@ -79,7 +79,7 @@
             android:id="@+id/constraintLayout3"
             android:layout_width="130dp"
             android:layout_height="130dp"
-            android:layout_marginTop="20dp"
+            android:layout_marginTop="8dp"
             android:background="@drawable/borderforuser"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.501"
@@ -115,14 +115,14 @@
             tools:ignore="TextContrastCheck" />
 
         <LinearLayout
-            android:layout_width="210dp"
-            android:layout_height="80dp"
+            android:layout_width="213dp"
+            android:layout_height="73dp"
             android:layout_marginStart="10dp"
             android:layout_marginBottom="10dp"
+            android:baselineAligned="false"
             android:orientation="horizontal"
             app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            android:baselineAligned="false">
+            app:layout_constraintStart_toStartOf="parent">
 
             <androidx.constraintlayout.widget.ConstraintLayout
                 android:layout_width="0dp"
@@ -148,7 +148,6 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginStart="10dp"
-                    android:layout_marginTop="5dp"
                     android:text="@string/friends"
                     android:textColor="@color/white"
                     android:textSize="20sp"
@@ -181,7 +180,6 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginStart="10dp"
-                    android:layout_marginTop="5dp"
                     android:text="@string/followers"
                     android:textColor="@color/white"
                     android:textSize="20sp"
@@ -219,7 +217,7 @@
                 android:gravity="center_vertical"
                 android:paddingLeft="15dp"
                 android:paddingRight="15dp"
-                android:text="Email: huydinhvan13.gmail.com"
+                android:text="@string/textview2"
                 android:textColor="#0277BD"
                 android:textSize="18sp" />
 
@@ -232,7 +230,7 @@
                 android:gravity="center_vertical"
                 android:paddingLeft="15dp"
                 android:paddingRight="15dp"
-                android:text="Phone: 0932548177"
+                android:text="@string/textview3"
                 android:textColor="#0277BD"
                 android:textSize="18sp" />
 
@@ -245,7 +243,7 @@
                 android:gravity="center_vertical"
                 android:paddingLeft="15dp"
                 android:paddingRight="15dp"
-                android:text="Mã SV: 2050531200531"
+                android:text="@string/textview4"
                 android:textColor="#0277BD"
                 android:textSize="18sp" />
 
@@ -257,7 +255,7 @@
                 android:gravity="center_vertical"
                 android:paddingLeft="15dp"
                 android:paddingRight="15dp"
-                android:text="Web: github.com/dvanhuy"
+                android:text="@string/textview5"
                 android:textColor="#0277BD"
                 android:textSize="18sp" />
         </LinearLayout>
