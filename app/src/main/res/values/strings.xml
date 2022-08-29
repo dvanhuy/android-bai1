@@ -9,4 +9,13 @@
     <string name="textview2">TextView</string>
     <string name="textview3">TextView</string>
     <string name="textview4">TextView</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="skype">Skype</string>
+    <string name="web">Web</string>
+    <string name="profile">Profile</string>
+    <string name="back">Back</string>
+    <string name="userimg">user</string>
+    <string name="profile_name">Profile Name</string>
+    <string name="tennguoitao">Đinh Văn Huy</string>
 </resources>

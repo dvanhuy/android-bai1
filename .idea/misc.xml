@@ -3,8 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidJava/LogIn/app/src/main/res/drawable/borderbottom.xml" value="0.241" />
+        <entry key="..\:/AndroidJava/LogIn/app/src/main/res/drawable/borderright.xml" value="0.241" />
+        <entry key="..\:/AndroidJava/LogIn/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/AndroidJava/LogIn/app/src/main/res/layout/activity_manhinh2.xml" value="0.24583333333333332" />
         <entry key="..\:/JavaAndroid/app/src/main/res/drawable/border.xml" value="0.2555" />
         <entry key="..\:/JavaAndroid/app/src/main/res/drawable/borderbottom.xml" value="0.2545" />
+        <entry key="..\:/JavaAndroid/app/src/main/res/drawable/borderforuser.xml" value="0.2545" />
         <entry key="..\:/JavaAndroid/app/src/main/res/drawable/buttonradius.xml" value="0.2545" />
         <entry key="..\:/JavaAndroid/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/JavaAndroid/app/src/main/res/layout/activity_manhinh2.xml" value="0.29850746268656714" />
