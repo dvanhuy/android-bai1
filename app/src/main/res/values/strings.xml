@@ -18,4 +18,9 @@
     <string name="userimg">user</string>
     <string name="profile_name">Profile Name</string>
     <string name="tennguoitao">Đinh Văn Huy</string>
+    <string name="_111">111</string>
+    <string name="friends">Friends</string>
+    <string name="_250">250</string>
+    <string name="followers">Followers</string>
+    <string name="setting">setting</string>
 </resources>

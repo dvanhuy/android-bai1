@@ -10,6 +10,7 @@ import android.widget.TextView;
 
 public class manhinh2 extends AppCompatActivity {
     TextView back;
+    TextView textEmail;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
